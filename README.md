@@ -2,7 +2,7 @@
 
 all_proxy=socks5://账号:密码@1.2.3.4:80 cloudflared tunnel run --token xxxx
 all_proxy=socks5://127.0.0.1:123 ./cloudflared tunnel run --protocol http2
-
+https://linux.do/t/topic/431783/4
 https://linux.do/t/topic/113091/10
 
 Contains the command-line client for Cloudflare Tunnel, a tunneling daemon that proxies traffic from the Cloudflare network to your origins.
